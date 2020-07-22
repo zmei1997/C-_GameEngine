@@ -1,0 +1,16 @@
+﻿  colorComponents.cpp
+  GameObject.cpp
+C:\Users\Stephen Mei\source\repos\Homework3\SpaceInvadersServer\GameObject.cpp(23,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stephen Mei\source\repos\Homework3\SpaceInvadersServer\GameObject.cpp(27,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stephen Mei\source\repos\Homework3\SpaceInvadersServer\GameObject.cpp(30,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  gameTime.cpp
+  main.cpp
+  movementComponents.cpp
+  positionComponents.cpp
+  sizeComponents.cpp
+  Timeline.cpp
+  Generating Code...
+C:\Users\Stephen Mei\source\repos\Homework3\SpaceInvadersServer\GameObject.cpp(33,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  duktape.c
+duk_bi_symbol.c(55,61): warning C4819: The file contains a character that cannot be represented in the current code page (0). Save the file in Unicode format to prevent data loss
+  SpaceInvadersServer.vcxproj -> C:\Users\Stephen Mei\source\repos\Homework3\Debug\SpaceInvadersServer.exe

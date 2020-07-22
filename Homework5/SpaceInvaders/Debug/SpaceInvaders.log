@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Stephen Mei\Desktop\dukglue-master\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): warning C4244: 'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+C:\Users\Stephen Mei\Desktop\dukglue-master\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+C:\Users\Stephen Mei\Desktop\dukglue-master\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): warning C4244: 'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+C:\Users\Stephen Mei\Desktop\dukglue-master\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+C:\Users\Stephen Mei\source\repos\Homework3\SpaceInvaders\main.cpp(136,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SpaceInvaders.vcxproj -> C:\Users\Stephen Mei\source\repos\Homework3\Debug\SpaceInvaders.exe

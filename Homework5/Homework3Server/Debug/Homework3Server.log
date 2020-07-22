@@ -1,0 +1,14 @@
+﻿  colorComponents.cpp
+  GameObject.cpp
+C:\Users\Stephen Mei\source\repos\Homework3\Homework3Server\GameObject.cpp(23,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stephen Mei\source\repos\Homework3\Homework3Server\GameObject.cpp(27,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stephen Mei\source\repos\Homework3\Homework3Server\GameObject.cpp(30,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  gameTime.cpp
+  main.cpp
+  movementComponents.cpp
+  positionComponents.cpp
+  sizeComponents.cpp
+  Timeline.cpp
+  Generating Code...
+C:\Users\Stephen Mei\source\repos\Homework3\Homework3Server\GameObject.cpp(33,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Homework3Server.vcxproj -> C:\Users\Stephen Mei\source\repos\Homework3\Debug\Homework3Server.exe
